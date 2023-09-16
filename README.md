@@ -4,7 +4,7 @@ Let ChatGPT generate a git commit message based on your git diff.
 
 ### WARNING NOTE:
 
-- You will need your own OPENAPI API KEY
+- You will need your own OPENAI API KEY
 - You will be billed for each use by OPENAI. Visit [OPENAI Pricing Page](https://openai.com/pricing)
 - This functionality isn't deterministic
    [The generated git commit message will differ on each attempt even if the input is the same.]
